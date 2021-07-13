@@ -1,14 +1,16 @@
-## Welcome to GitHub Pages
+## Consolidação de normas da Procuradoria Regional da República
 
-You can use the [editor on GitHub](https://github.com/prr2cg/consolidacao-normas-prr2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As normas internas da Procuradoria Regional da República encontram-se abaixo organizadas de forma temática. O repositório será atualizado de forma contínua com a incorporação das normas vigentes porém a consulta à publicação oficial é indispensável nos sistemas nacionais como a Biblioteca Digital e Sistema Único.
 
+# Atividade-Meio
+
+# Atividade-Fim
 # Núcleos temáticos
 - [Núcleo de Tutela Coletiva e Cível](#id-section1)
 - [Núcleo Criminal](#id-section2)
 - [Núcleo Criminal de Combate à Corrupçao](#id-section3)
 
 # Afastamentos
-
 
 
 <div id='id-section1'/>
