@@ -1,7 +1,3 @@
-```diff
-+ this text is highlighted in green
-- this text is highlighted in red
-```
 # Consolidação de normas da Procuradoria Regional da República
 
 As normas internas da Procuradoria Regional da República encontram-se abaixo organizadas de forma temática. O repositório será atualizado de forma contínua com a incorporação das normas vigentes porém a consulta à publicação oficial é indispensável nos sistemas nacionais como a Biblioteca Digital e Sistema Único.
