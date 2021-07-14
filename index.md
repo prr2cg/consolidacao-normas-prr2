@@ -10,8 +10,6 @@ As normas internas da Procuradoria Regional da República encontram-se abaixo or
 - [Núcleo Criminal de Combate à Corrupçao](#id-section3)
 - [Afastamentos](#id-section4)
 
-
-
 ### Núcleo de Tutela Coletiva e Cível <div id='id-section1'/>
 
 #### Composição do NTCC e atribuições
@@ -31,7 +29,7 @@ A distribuição dos processos judiciais far-se-á de acordo com os seguintes gr
 O grupo Cível será composto por todos os ofícios do Núcleo da Tutela Coletiva e Cível para os quais serão distribuídos os feitos em que o Ministério Público Federal se manifeste como custos legis, excetuados aqueles afetos ao Núcleo Criminal e ao grupo da Tutela Coletiva.  **(Art. 3o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
 
 #### Subnúcleos da Tutela Coletiva
-No grupo da Tutela Coletiva, a distribuição dos processos judiciais, representações pertinentes e peças de informação far-se-á de acordo com os seguintes Subnúcleos especializados, os quais serão preenchidos de acordo com o interesse manifestado pelos integrantes do Núcleo, observado o critério da antiguidade, e respeitada a seguinte composição:  (Art. 4o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)
+No grupo da Tutela Coletiva, a distribuição dos processos judiciais, representações pertinentes e peças de informação far-se-á de acordo com os seguintes Subnúcleos especializados, os quais serão preenchidos de acordo com o interesse manifestado pelos integrantes do Núcleo, observado o critério da antiguidade, e respeitada a seguinte composição:  **(Art. 4o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
     I – Meio Ambiente e Patrimônio Cultural – 10 (dez) Ofícios Regionais do NTCC;
     II – Combate à Corrupção – 16 (dezesseis) Ofícios Regionais do NTCC e,
     III – Direitos do Cidadão (PFDC), Direitos Sociais e Fiscalização dos Atos Administrativos em Geral (1ª CCR), Consumidor e Ordem Econômica (3ª CCR), Populações Indígenas e Comunidades Tradicionais (6ª CCR) e matérias de tutela coletiva residual – 4 (quatro) Ofícios Regionais do NTCC.
