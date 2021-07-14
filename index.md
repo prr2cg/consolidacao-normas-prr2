@@ -21,39 +21,47 @@ Fica instituído o Núcleo de Tutela Coletiva e Cível (NTCC) da Procuradoria Re
 Os Ofícios do Núcleo Temático da Tutela Coletiva/Cível atuarão nas matérias de tutela coletiva, administrativa, tributária e propriedade industrial. **(Art. 6o. Portaria PRR2 nº 176, de 24 de setembro de 2014)**
 
 #### Grupos de distribuição
-A distribuição dos processos judiciais far-se-á de acordo com os seguintes grupos: **(Art. 2o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
-    I – Cível (Custos Legis)
+A distribuição dos processos judiciais far-se-á de acordo com os seguintes grupos: **(Art. 2o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)** \
+    I – Cível (Custos Legis) \
     II – Tutela Coletiva
 
 #### Composição do grupo cível
 O grupo Cível será composto por todos os ofícios do Núcleo da Tutela Coletiva e Cível para os quais serão distribuídos os feitos em que o Ministério Público Federal se manifeste como custos legis, excetuados aqueles afetos ao Núcleo Criminal e ao grupo da Tutela Coletiva.  **(Art. 3o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
 
 #### Subnúcleos da Tutela Coletiva
-No grupo da Tutela Coletiva, a distribuição dos processos judiciais, representações pertinentes e peças de informação far-se-á de acordo com os seguintes Subnúcleos especializados, os quais serão preenchidos de acordo com o interesse manifestado pelos integrantes do Núcleo, observado o critério da antiguidade, e respeitada a seguinte composição:  **(Art. 4o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
-    I – Meio Ambiente e Patrimônio Cultural – 10 (dez) Ofícios Regionais do NTCC;
-    II – Combate à Corrupção – 16 (dezesseis) Ofícios Regionais do NTCC e,
+No grupo da Tutela Coletiva, a distribuição dos processos judiciais, representações pertinentes e peças de informação far-se-á de acordo com os seguintes Subnúcleos especializados, os quais serão preenchidos de acordo com o interesse manifestado pelos integrantes do Núcleo, observado o critério da antiguidade, e respeitada a seguinte composição:  **(Art. 4o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)** \
+    I – Meio Ambiente e Patrimônio Cultural – 10 (dez) Ofícios Regionais do NTCC;\
+    II – Combate à Corrupção – 16 (dezesseis) Ofícios Regionais do NTCC e,\
     III – Direitos do Cidadão (PFDC), Direitos Sociais e Fiscalização dos Atos Administrativos em Geral (1ª CCR), Consumidor e Ordem Econômica (3ª CCR), Populações Indígenas e Comunidades Tradicionais (6ª CCR) e matérias de tutela coletiva residual – 4 (quatro) Ofícios Regionais do NTCC.
 
 #### Alteração do número de ofícios por subnúcleo
-O número de ofícios por Subnúcleo poderá ser alterado se constatado excesso de feitos em determinada matéria, situação que deverá ser previamente discutida pelos membros do NTCC e comunicada ao Procurador-Chefe. (Art. 5o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)
+O número de ofícios por Subnúcleo poderá ser alterado se constatado excesso de feitos em determinada matéria, situação que deverá ser previamente discutida pelos membros do NTCC e comunicada ao Procurador-Chefe. **(Art. 5o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
+
 #### Atribuição dos subnúcleos
-Aos Ofícios componentes dos respectivos Subnúcleos caberá a manifestação nas ações civis públicas, ações de improbidade, ações populares, ações relativas às comunidades indígenas e tradicionais e respectivas ações rescisórias em trâmite perante o Tribunal Regional Federal da 2ª Região.  (Art. 6o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)
-Distribuição nos subnúcleos
-A distribuição dos feitos aos Subnúcleos se dará de forma aleatória e equitativa entre os ofícios neles atuantes, observando-se as classes processuais, os assuntos e o motivo da vinda, bem como as prevenções, mantidas as existentes na data de início da nova sistemática desde que o ofício esteja vinculado ao Subnúcleo respectivo.  (Art. 7o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)
-Disposições gerais
-Serão aplicados, no que não contrariar as regras específicas previstas nesta Portaria, os atos normativos que disciplinam as regras de prevenção, classificação e distribuição processual (Portarias PRR2 nº 26/2014, nº 141/2014, nº 174/2014 e nº 176/2014), bem como as de férias e outros afastamentos (Portaria PRR2 nº 139/2013), substituição de ofícios (Portaria nº 182/2014), de comparecimento e substituição de membros nas sessões de julgamento (Portaria PRR2 nº 92/2010) e as que regulam o regime de plantão judicial (Portaria PRR2 nº 430/2015).  (Art. 8o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)
-Revisão anual das regras do NTCC
-As condições estabelecidas nesta Portaria serão necessariamente revistas no mês de março de 2017 e, após, anualmente, na primeira reunião ordinária do NTCC.  (Art. 9o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)
-Casos omissos
-Ao Procurador-Chefe caberá decidir acerca das questões não previstas nesta Portaria, ouvido o Coordenador do Núcleo da Tutela Coletiva e Cível.  (Art. 10 da Portaria PRR2 Nº 264, de 20 de junho de 2016.)
-SATCIV
-Ficam regulamentadas, no âmbito da Procuradoria Regional da República da 2ª Região, as atribuições do Setor de Acompanhamento de Matéria da Tutela Coletiva e Cível - SATCIV, cuja atuação é regida pela presente Portaria. (Art. 1o da Portaria PRR2 nº 39, de 06 de abril de 2009)
-O SATCIV é uma subunidade administrativa da Procuradoria Regional da República da 2ª Região, subordinado funcionalmente à Divisão de Apoio e Acompanhamento Processual - DIAAP. (Art. 2o da Portaria PRR2 nº 39, de 06 de abril de 2009)
-Composição do SATCIV (SAMTCC)
-O quadro funcional do SATCIV será composto de 03 (três) servidores, a um dos quais será atribuída a função de Chefe (FC-01). (Art. 2o, § único, da Portaria PRR2 nº 39, de 06 de abril de 2009)
-Atribuições do SATCIV (SAMTCC)
-Compete aos servidores lotados no SATCIV, além daquilo que seja decorrente de suas atribuições: (Art. 3o da Portaria PRR2 nº 39, de 06 de abril de 2009)
-I – Autuar, distribuir e arquivar os Procedimentos Administrativos dos Núcleos da Tutela Coletiva e Cível;
+Aos Ofícios componentes dos respectivos Subnúcleos caberá a manifestação nas ações civis públicas, ações de improbidade, ações populares, ações relativas às comunidades indígenas e tradicionais e respectivas ações rescisórias em trâmite perante o Tribunal Regional Federal da 2ª Região. **(Art. 6o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
+
+#### Distribuição nos subnúcleos
+A distribuição dos feitos aos Subnúcleos se dará de forma aleatória e equitativa entre os ofícios neles atuantes, observando-se as classes processuais, os assuntos e o motivo da vinda, bem como as prevenções, mantidas as existentes na data de início da nova sistemática desde que o ofício esteja vinculado ao Subnúcleo respectivo. **(Art. 7o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
+
+#### Disposições gerais
+Serão aplicados, no que não contrariar as regras específicas previstas nesta Portaria, os atos normativos que disciplinam as regras de prevenção, classificação e distribuição processual (Portarias PRR2 nº 26/2014, nº 141/2014, nº 174/2014 e nº 176/2014), bem como as de férias e outros afastamentos (Portaria PRR2 nº 139/2013), substituição de ofícios (Portaria nº 182/2014), de comparecimento e substituição de membros nas sessões de julgamento (Portaria PRR2 nº 92/2010) e as que regulam o regime de plantão judicial (Portaria PRR2 nº 430/2015).  **(Art. 8o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
+
+#### Revisão anual das regras do NTCC
+As condições estabelecidas nesta Portaria serão necessariamente revistas no mês de março de 2017 e, após, anualmente, na primeira reunião ordinária do NTCC.  **(Art. 9o da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
+
+#### Casos omissos
+Ao Procurador-Chefe caberá decidir acerca das questões não previstas nesta Portaria, ouvido o Coordenador do Núcleo da Tutela Coletiva e Cível. **(Art. 10 da Portaria PRR2 Nº 264, de 20 de junho de 2016.)**
+
+#### SATCIV
+Ficam regulamentadas, no âmbito da Procuradoria Regional da República da 2ª Região, as atribuições do Setor de Acompanhamento de Matéria da Tutela Coletiva e Cível - SATCIV, cuja atuação é regida pela presente Portaria. **(Art. 1o da Portaria PRR2 nº 39, de 06 de abril de 2009)** \
+O SATCIV é uma subunidade administrativa da Procuradoria Regional da República da 2ª Região, subordinado funcionalmente à Divisão de Apoio e Acompanhamento Processual - DIAAP. **(Art. 2o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
+
+#### Composição do SATCIV (SAMTCC)
+O quadro funcional do SATCIV será composto de 03 (três) servidores, a um dos quais será atribuída a função de Chefe (FC-01). **(Art. 2o, § único, da Portaria PRR2 nº 39, de 06 de abril de 2009)**
+
+#### Atribuições do SATCIV (SAMTCC)
+Compete aos servidores lotados no SATCIV, além daquilo que seja decorrente de suas atribuições: **(Art. 3o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
+    I – Autuar, distribuir e arquivar os Procedimentos Administrativos dos Núcleos da Tutela Coletiva e Cível;
 II – Efetuar o encaminhamento e recolhimento de Procedimentos Administrativos nos Gabinetes, conforme horários e formas já aplicáveis aos processos judiciais;
 III – Realizar os atos e diligências que forem determinados por despacho, no interesse dos Procedimentos Administrativos, que não forem de atribuição da estrutura dos Gabinetes;
 IV – Disponibilizar e divulgar as estatísticas relativas aos Procedimentos Administrativos;
