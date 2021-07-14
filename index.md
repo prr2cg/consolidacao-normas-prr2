@@ -10,7 +10,7 @@ As normas internas da Procuradoria Regional da República encontram-se abaixo or
 - [Núcleo Criminal de Combate à Corrupçao](#id-section3)
 - [Afastamentos](#id-section4)
 
-### Núcleo de Tutela Coletiva e Cível <div id='id-section1'/>
+### Núcleo de Tutela Coletiva e Cível<div id='id-section1'/>
 
 #### Composição do NTCC e atribuições
 
