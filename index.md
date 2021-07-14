@@ -5,38 +5,28 @@ As normas internas da Procuradoria Regional da República encontram-se abaixo or
 ## Atividade-Meio
 
 ## Atividade-Fim
-- [Consolidação de normas da Procuradoria Regional da República](#consolida--o-de-normas-da-procuradoria-regional-da-rep-blica)
-  * [Atividade-Meio](#atividade-meio)
-  * [Atividade-Fim](#atividade-fim)
-    + [Núcleo de Tutela Coletiva e Cível<div id='id-section1'/>](#n-cleo-de-tutela-coletiva-e-c-vel-div-id--id-section1---)
-      - [Composição do NTCC e atribuições](#composi--o-do-ntcc-e-atribui--es)
-      - [Temática do Núcleo de Tutela Coletiva e Cível](#tem-tica-do-n-cleo-de-tutela-coletiva-e-c-vel)
-      - [Grupos de distribuição](#grupos-de-distribui--o)
-      - [Composição do grupo cível](#composi--o-do-grupo-c-vel)
-      - [Subnúcleos da Tutela Coletiva](#subn-cleos-da-tutela-coletiva)
-      - [Alteração do número de ofícios por subnúcleo](#altera--o-do-n-mero-de-of-cios-por-subn-cleo)
-      - [Atribuição dos subnúcleos](#atribui--o-dos-subn-cleos)
-      - [Distribuição nos subnúcleos](#distribui--o-nos-subn-cleos)
-      - [Disposições gerais](#disposi--es-gerais)
-      - [Revisão anual das regras do NTCC](#revis-o-anual-das-regras-do-ntcc)
-      - [Casos omissos](#casos-omissos)
-      - [SATCIV](#satciv)
-      - [Composição do SATCIV (SAMTCC)](#composi--o-do-satciv--samtcc-)
-      - [Atribuições do SATCIV (SAMTCC)](#atribui--es-do-satciv--samtcc-)
-    + [Núcleo Criminal <div id='id-section2'/>](#n-cleo-criminal--div-id--id-section2---)
-    + [Núcleo Criminal de Combate à Corrupçao <div id='id-section3'/>](#n-cleo-criminal-de-combate---corrup-ao--div-id--id-section3---)
-    + [Afastamentos <div id='id-section4'/>](#afastamentos--div-id--id-section4---)
+  - [1. Atividade-Meio](#atividade-meio)
+  - [2. Atividade-Fim](#atividade-fim)
+    * [2.1 Núcleo de Tutela Coletiva e Cível](#NTCC)
+      + [2.1.2 Composição do NTCC e atribuições](#composi--o-do-ntcc-e-atribui--es)
+      + [2.1.3 Temática do Núcleo de Tutela Coletiva e Cível](#tem-tica-do-n-cleo-de-tutela-coletiva-e-c-vel)
+      + [Grupos de distribuição](#grupos-de-distribui--o)
+      + [Composição do grupo cível](#composi--o-do-grupo-c-vel)
+      + [Subnúcleos da Tutela Coletiva](#subn-cleos-da-tutela-coletiva)
+      + [Alteração do número de ofícios por subnúcleo](#altera--o-do-n-mero-de-of-cios-por-subn-cleo)
+      + [Atribuição dos subnúcleos](#atribui--o-dos-subn-cleos)
+      + [Distribuição nos subnúcleos](#distribui--o-nos-subn-cleos)
+      + [Disposições gerais](#disposi--es-gerais)
+      + [Revisão anual das regras do NTCC](#revis-o-anual-das-regras-do-ntcc)
+      + [Casos omissos](#casos-omissos)
+      + [SATCIV](#satciv)
+      + [Composição do SATCIV (SAMTCC)](#composi--o-do-satciv--samtcc-)
+      + [Atribuições do SATCIV (SAMTCC)](#atribui--es-do-satciv--samtcc-)
+    * [Núcleo Criminal <div id='id-section2'/>](#n-cleo-criminal--div-id--id-section2---)
+    * [Núcleo Criminal de Combate à Corrupçao <div id='id-section3'/>](#n-cleo-criminal-de-combate---corrup-ao--div-id--id-section3---)
+    * [Afastamentos <div id='id-section4'/>](#afastamentos--div-id--id-section4---)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
-- [Núcleo de Tutela Coletiva e Cível](#id-section1)
-- [Núcleo Criminal](#id-section2)
-- [Núcleo Criminal de Combate à Corrupçao](#id-section3)
-- [Afastamentos](#id-section4)
-
-### Núcleo de Tutela Coletiva e Cível<div id='id-section1'/>
+### Núcleo de Tutela Coletiva e Cível
 
 #### Composição do NTCC e atribuições
 
