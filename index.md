@@ -8,8 +8,8 @@ As normas internas da Procuradoria Regional da República encontram-se abaixo or
   - [1. Atividade-Meio](#atividade-meio)
   - [2. Atividade-Fim](#atividade-fim)
     * [2.1 Núcleo de Tutela Coletiva e Cível](#NTCC)
-      + [2.1.2 Composição do NTCC e atribuições](#composi--o-do-ntcc-e-atribui--es)
-      + [2.1.3 Temática do Núcleo de Tutela Coletiva e Cível](#tem-tica-do-n-cleo-de-tutela-coletiva-e-c-vel)
+      + [Composição do NTCC e atribuições](#composicao--o-do-ntcc-e-atribui--es)
+      + [Temática do Núcleo de Tutela Coletiva e Cível](#tem-tica-do-n-cleo-de-tutela-coletiva-e-c-vel)
       + [Grupos de distribuição](#grupos-de-distribui--o)
       + [Composição do grupo cível](#composi--o-do-grupo-c-vel)
       + [Subnúcleos da Tutela Coletiva](#subn-cleos-da-tutela-coletiva)
@@ -24,7 +24,7 @@ As normas internas da Procuradoria Regional da República encontram-se abaixo or
       + [Atribuições do SATCIV (SAMTCC)](#atribui--es-do-satciv--samtcc-)
     * [Núcleo Criminal <div id='id-section2'/>](#n-cleo-criminal--div-id--id-section2---)
     * [Núcleo Criminal de Combate à Corrupçao <div id='id-section3'/>](#n-cleo-criminal-de-combate---corrup-ao--div-id--id-section3---)
-    * [Afastamentos <div id='id-section4'/>](#afastamentos--div-id--id-section4---)
+    * [Afastamentos](#Afastamentos)
 
 ### Núcleo de Tutela Coletiva e Cível
 
@@ -77,31 +77,38 @@ O quadro funcional do SATCIV será composto de 03 (três) servidores, a um dos q
 
 #### Atribuições do SATCIV (SAMTCC)
 Compete aos servidores lotados no SATCIV, além daquilo que seja decorrente de suas atribuições: **(Art. 3o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
-    I – Autuar, distribuir e arquivar os Procedimentos Administrativos dos Núcleos da Tutela Coletiva e Cível;
-II – Efetuar o encaminhamento e recolhimento de Procedimentos Administrativos nos Gabinetes, conforme horários e formas já aplicáveis aos processos judiciais;
-III – Realizar os atos e diligências que forem determinados por despacho, no interesse dos Procedimentos Administrativos, que não forem de atribuição da estrutura dos Gabinetes;
-IV – Disponibilizar e divulgar as estatísticas relativas aos Procedimentos Administrativos;
-V – Secretariar os Coordenadores de Núcleo nas suas atribuições.
-O disposto no inciso I depende de despacho ou ofício do Procurador-Chefe, dos Coordenadores do Núcleo da Tutela Coletiva ou Cível, ou dos demais Procuradores Regionais da República que atuem no Núcleo. (Art. 3o §1o da Portaria PRR2 nº 39, de 06 de abril de 2009)
-Distribuição de Procedimentos Administrativos no NTCC
-A distribuição do Procedimento Administrativo será realizada mediante os seguintes critérios:  (Art. 4o da Portaria PRR2 nº 39, de 06 de abril de 2009)
-I – a distribuição do Procedimento ocorrerá mediante despacho ou Ofício do Procurador-Chefe ou do Procurador Coordenador do Núcleo da Tutela Coletiva ou do Núcleo Cível, com exceção daqueles Procedimentos que serão distribuídos para os Procuradores que determinaram autuação para seu próprio acompanhamento, e que não integrarão a estatística de distribuição;
-II – os Procedimentos serão livremente distribuídos entre os Procuradores Regionais que compõem os Núcleos da Tutela Coletiva ou Cível, em exercício quando da distribuição, observando-se o critério de antiguidade inversa nesta unidade, bem como o critério de igualdade numérica, atentando-se, ainda, para a existência de Procedimento anterior correlato ou processo judicial que acuse a prevenção, respeitando-se a regra vigente para distribuição de processos judiciais;
-III – ao Procurador recém designado para o Núcleo da Tutela Coletiva ou Cível será atribuído o acervo de Procedimentos Administrativos que possuía o Procurador que se retirou, sucedendo-o, para todos os efeitos, inclusive para fins de estatística de distribuição, salvo no caso de criação de nova vaga no respectivo Núcleo, hipótese em que se atribuirá uma quantidade de Procedimentos Administrativos equivalente à média aritmética entre os Procuradores com maior e menor número, ou ainda, observar-se-á outro critério que o grupo pontualmente venha a determinar;
-IV – caberá à Divisão de Exame, Registro, Classificação, Distribuição e Informações Processuais – DERCDIP, a alimentação e o gerenciamento do cadastro de prevenção do Sistema de Controle Processual – SCP. Para fins de alimentação e atualização no SCP, o SATCIV deverá informar à DERCDIP, quando solicitado, o nome do Procurador Regional da República para o qual foi  distribuído livremente o Procedimento Administrativo, assim como outros dados necessários à  alimentação ou complementação dos dados;
-V – serão considerados impedidos ou suspeitos os Procuradores que assim se manifestarem, por escrito, no Procedimento Administrativo, para que seja feita a sua redistribuição; 
-VI – será lavrada Certidão de Distribuição nos autos do Procedimento, onde constará o motivo da distribuição, se por prevenção ou rodízio, devendo o  Procedimento Administrativo ser encaminhado posteriormente ao gabinete.
-Reclassificação de procedimentos
-A reclassificação de Procedimentos será feita por despacho, conforme entendimento do Procurador Regional da República que recebeu o procedimento, consultado o Coordenador do Núcleo, podendo, após a reclassificação, haver nova distribuição.  (Art. 5o da Portaria PRR2 nº 39, de 06 de abril de 2009)
-Redistribuição de Procedimentos Administrativos
-A redistribuição de Procedimentos Administrativos será feita por despacho fundamentado, obedecidos os seguintes critérios:  (Art. 6o da Portaria PRR2 nº 39, de 06 de abril de 2009)
-I – uma vez realizada a redistribuição, deverá haver posterior compensação por outro Procedimento Administrativo, levando-se em consideração a mesma classificação, se houver;
-II –  o motivo da redistribuição deverá constar no programa de movimentação (ARP);
-III – na hipótese de afastamento, caberá ao Procurador titular decidir se o Procedimento Administrativo será encaminhado ao SATCIV para que seja submetido provisoriamente a seu eventual substituto ou a outro Procurador Regional, que ficará prevento para atuar posteriormente no mesmo procedimento e seus correlatos, caso ocorra novo afastamento;
-IV – caberá ao gabinete que recebeu provisoriamente o Procedimento Administrativo devolvê-lo diretamente ao gabinete do Procurador vinculado quando de seu retorno, efetuando a pertinente movimentação no ARP. 
-Designação dos Coordenadores do NTCC
-O Coordenador do Núcleo de Tutela Coletiva/Cível e o seu substituto serão designados, por portaria do Procurador-Chefe, pelo período de 6 (seis) meses cada um, de acordo com o critério de antiguidade, ou seja, do mais antigo para o mais moderno, entre aqueles que se inscreverem para esta função, permitida 1 (uma) recondução, por igual período, desde que solicitada pelos interessados e com a anuência dos demais integrantes do Núcleo de Tutela Coletiva e Cível. (Art. 1o da Portaria nº 351, de 03 de novembro de 2015)
-Designação do Coordenadores do NTCC em caso de vacância
+
+  I – Autuar, distribuir e arquivar os Procedimentos Administrativos dos Núcleos da Tutela Coletiva e Cível;\
+  II – Efetuar o encaminhamento e recolhimento de Procedimentos Administrativos nos Gabinetes, conforme horários e formas já aplicáveis aos processos judiciais;\
+  III – Realizar os atos e diligências que forem determinados por despacho, no interesse dos Procedimentos Administrativos, que não forem de atribuição da estrutura dos  Gabinetes;\
+  IV – Disponibilizar e divulgar as estatísticas relativas aos Procedimentos Administrativos;\
+  V – Secretariar os Coordenadores de Núcleo nas suas atribuições.\
+  
+  O disposto no inciso I depende de despacho ou ofício do Procurador-Chefe, dos Coordenadores do Núcleo da Tutela Coletiva ou Cível, ou dos demais Procuradores Regionais da República que atuem no Núcleo. **(Art. 3o §1o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
+
+#### Distribuição de Procedimentos Administrativos no NTCC
+A distribuição do Procedimento Administrativo será realizada mediante os seguintes critérios:  **(Art. 4o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
+  I – a distribuição do Procedimento ocorrerá mediante despacho ou Ofício do Procurador-Chefe ou do Procurador Coordenador do Núcleo da Tutela Coletiva ou do Núcleo Cível, com exceção daqueles Procedimentos que serão distribuídos para os Procuradores que determinaram autuação para seu próprio acompanhamento, e que não integrarão a estatística de distribuição;\
+  II – os Procedimentos serão livremente distribuídos entre os Procuradores Regionais que compõem os Núcleos da Tutela Coletiva ou Cível, em exercício quando da distribuição, observando-se o critério de antiguidade inversa nesta unidade, bem como o critério de igualdade numérica, atentando-se, ainda, para a existência de Procedimento anterior correlato ou processo judicial que acuse a prevenção, respeitando-se a regra vigente para distribuição de processos judiciais;\
+  III – ao Procurador recém designado para o Núcleo da Tutela Coletiva ou Cível será atribuído o acervo de Procedimentos Administrativos que possuía o Procurador que se retirou, sucedendo-o, para todos os efeitos, inclusive para fins de estatística de distribuição, salvo no caso de criação de nova vaga no respectivo Núcleo, hipótese em que se atribuirá uma quantidade de Procedimentos Administrativos equivalente à média aritmética entre os Procuradores com maior e menor número, ou ainda, observar-se-á outro critério que o grupo pontualmente venha a determinar;\
+  IV – caberá à Divisão de Exame, Registro, Classificação, Distribuição e Informações Processuais – DERCDIP, a alimentação e o gerenciamento do cadastro de prevenção do Sistema de Controle Processual – SCP. Para fins de alimentação e atualização no SCP, o SATCIV deverá informar à DERCDIP, quando solicitado, o nome do Procurador Regional da República para o qual foi  distribuído livremente o Procedimento Administrativo, assim como outros dados necessários à  alimentação ou complementação dos dados;\
+  V – serão considerados impedidos ou suspeitos os Procuradores que assim se manifestarem, por escrito, no Procedimento Administrativo, para que seja feita a sua redistribuição;\ 
+  VI – será lavrada Certidão de Distribuição nos autos do Procedimento, onde constará o motivo da distribuição, se por prevenção ou rodízio, devendo o  Procedimento Administrativo ser encaminhado posteriormente ao gabinete.\
+
+#### Reclassificação de procedimentos
+A reclassificação de Procedimentos será feita por despacho, conforme entendimento do Procurador Regional da República que recebeu o procedimento, consultado o Coordenador do Núcleo, podendo, após a reclassificação, haver nova distribuição.  **(Art. 5o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
+
+#### Redistribuição de Procedimentos Administrativos
+A redistribuição de Procedimentos Administrativos será feita por despacho fundamentado, obedecidos os seguintes critérios:  **(Art. 6o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
+I – uma vez realizada a redistribuição, deverá haver posterior compensação por outro Procedimento Administrativo, levando-se em consideração a mesma classificação, se houver;\
+II –  o motivo da redistribuição deverá constar no programa de movimentação (ARP);\
+III – na hipótese de afastamento, caberá ao Procurador titular decidir se o Procedimento Administrativo será encaminhado ao SATCIV para que seja submetido provisoriamente a seu eventual substituto ou a outro Procurador Regional, que ficará prevento para atuar posteriormente no mesmo procedimento e seus correlatos, caso ocorra novo afastamento;\
+IV – caberá ao gabinete que recebeu provisoriamente o Procedimento Administrativo devolvê-lo diretamente ao gabinete do Procurador vinculado quando de seu retorno, efetuando a pertinente movimentação no ARP. \
+
+#### Designação dos Coordenadores do NTCC
+O Coordenador do Núcleo de Tutela Coletiva/Cível e o seu substituto serão designados, por portaria do Procurador-Chefe, pelo período de 6 (seis) meses cada um, de acordo com o critério de antiguidade, ou seja, do mais antigo para o mais moderno, entre aqueles que se inscreverem para esta função, permitida 1 (uma) recondução, por igual período, desde que solicitada pelos interessados e com a anuência dos demais integrantes do Núcleo de Tutela Coletiva e Cível. **(Art. 1o da Portaria nº 351, de 03 de novembro de 2015)**
+
+#### Designação do Coordenadores do NTCC em caso de vacância
 Em não havendo postulantes ao exercício da Coordenação do Núcleo de Tutela Coletiva/Cível, a função será exercida pelos dois Procuradores Regionais da República de menor antiguidade, ou seja, os mais novos, cada qual exercendo a titularidade pelo período de 6 meses. (Art. 1o §1o da Portaria nº 351, de 03 de novembro de 2015)
 Dispensa da Coordenação do NTCC
 Estarão isentos das nomeações referidas no Parágrafo anterior o Coordenador do NAOP e os Procuradores Regionais Eleitorais auxiliares, estes apenas em anos eleitorais, no período de julho a dezembro. (Art. 1o §2o da Portaria nº 351, de 03 de novembro de 2015)
