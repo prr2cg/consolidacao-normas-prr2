@@ -82,18 +82,19 @@ Compete aos servidores lotados no SATCIV, além daquilo que seja decorrente de s
   II – Efetuar o encaminhamento e recolhimento de Procedimentos Administrativos nos Gabinetes, conforme horários e formas já aplicáveis aos processos judiciais;\
   III – Realizar os atos e diligências que forem determinados por despacho, no interesse dos Procedimentos Administrativos, que não forem de atribuição da estrutura dos  Gabinetes;\
   IV – Disponibilizar e divulgar as estatísticas relativas aos Procedimentos Administrativos;\
-  V – Secretariar os Coordenadores de Núcleo nas suas atribuições.\
+  V – Secretariar os Coordenadores de Núcleo nas suas atribuições.
   
   O disposto no inciso I depende de despacho ou ofício do Procurador-Chefe, dos Coordenadores do Núcleo da Tutela Coletiva ou Cível, ou dos demais Procuradores Regionais da República que atuem no Núcleo. **(Art. 3o §1o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
 
 #### Distribuição de Procedimentos Administrativos no NTCC
 A distribuição do Procedimento Administrativo será realizada mediante os seguintes critérios:  **(Art. 4o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
-  I – a distribuição do Procedimento ocorrerá mediante despacho ou Ofício do Procurador-Chefe ou do Procurador Coordenador do Núcleo da Tutela Coletiva ou do Núcleo Cível, com exceção daqueles Procedimentos que serão distribuídos para os Procuradores que determinaram autuação para seu próprio acompanhamento, e que não integrarão a estatística de distribuição;\
-  II – os Procedimentos serão livremente distribuídos entre os Procuradores Regionais que compõem os Núcleos da Tutela Coletiva ou Cível, em exercício quando da distribuição, observando-se o critério de antiguidade inversa nesta unidade, bem como o critério de igualdade numérica, atentando-se, ainda, para a existência de Procedimento anterior correlato ou processo judicial que acuse a prevenção, respeitando-se a regra vigente para distribuição de processos judiciais;\
-  III – ao Procurador recém designado para o Núcleo da Tutela Coletiva ou Cível será atribuído o acervo de Procedimentos Administrativos que possuía o Procurador que se retirou, sucedendo-o, para todos os efeitos, inclusive para fins de estatística de distribuição, salvo no caso de criação de nova vaga no respectivo Núcleo, hipótese em que se atribuirá uma quantidade de Procedimentos Administrativos equivalente à média aritmética entre os Procuradores com maior e menor número, ou ainda, observar-se-á outro critério que o grupo pontualmente venha a determinar;\
-  IV – caberá à Divisão de Exame, Registro, Classificação, Distribuição e Informações Processuais – DERCDIP, a alimentação e o gerenciamento do cadastro de prevenção do Sistema de Controle Processual – SCP. Para fins de alimentação e atualização no SCP, o SATCIV deverá informar à DERCDIP, quando solicitado, o nome do Procurador Regional da República para o qual foi  distribuído livremente o Procedimento Administrativo, assim como outros dados necessários à  alimentação ou complementação dos dados;\
-  V – serão considerados impedidos ou suspeitos os Procuradores que assim se manifestarem, por escrito, no Procedimento Administrativo, para que seja feita a sua redistribuição;\ 
-  VI – será lavrada Certidão de Distribuição nos autos do Procedimento, onde constará o motivo da distribuição, se por prevenção ou rodízio, devendo o  Procedimento Administrativo ser encaminhado posteriormente ao gabinete.\
+
+I – a distribuição do Procedimento ocorrerá mediante despacho ou Ofício do Procurador-Chefe ou do Procurador Coordenador do Núcleo da Tutela Coletiva ou do Núcleo Cível, com exceção daqueles Procedimentos que serão distribuídos para os Procuradores que determinaram autuação para seu próprio acompanhamento, e que não integrarão a estatística de distribuição;\
+II – os Procedimentos serão livremente distribuídos entre os Procuradores Regionais que compõem os Núcleos da Tutela Coletiva ou Cível, em exercício quando da distribuição, observando-se o critério de antiguidade inversa nesta unidade, bem como o critério de igualdade numérica, atentando-se, ainda, para a existência de Procedimento anterior correlato ou processo judicial que acuse a prevenção, respeitando-se a regra vigente para distribuição de processos judiciais;\
+III – ao Procurador recém designado para o Núcleo da Tutela Coletiva ou Cível será atribuído o acervo de Procedimentos Administrativos que possuía o Procurador que se retirou, sucedendo-o, para todos os efeitos, inclusive para fins de estatística de distribuição, salvo no caso de criação de nova vaga no respectivo Núcleo, hipótese em que se atribuirá uma quantidade de Procedimentos Administrativos equivalente à média aritmética entre os Procuradores com maior e menor número, ou ainda, observar-se-á outro critério que o grupo pontualmente venha a determinar;\
+IV – caberá à Divisão de Exame, Registro, Classificação, Distribuição e Informações Processuais – DERCDIP, a alimentação e o gerenciamento do cadastro de prevenção do Sistema de Controle Processual – SCP. Para fins de alimentação e atualização no SCP, o SATCIV deverá informar à DERCDIP, quando solicitado, o nome do Procurador Regional da República para o qual foi  distribuído livremente o Procedimento Administrativo, assim como outros dados necessários à  alimentação ou complementação dos dados;\
+V – serão considerados impedidos ou suspeitos os Procuradores que assim se manifestarem, por escrito, no Procedimento Administrativo, para que seja feita a sua redistribuição;\ 
+VI – será lavrada Certidão de Distribuição nos autos do Procedimento, onde constará o motivo da distribuição, se por prevenção ou rodízio, devendo o  Procedimento Administrativo ser encaminhado posteriormente ao gabinete.
 
 #### Reclassificação de procedimentos
 A reclassificação de Procedimentos será feita por despacho, conforme entendimento do Procurador Regional da República que recebeu o procedimento, consultado o Coordenador do Núcleo, podendo, após a reclassificação, haver nova distribuição.  **(Art. 5o da Portaria PRR2 nº 39, de 06 de abril de 2009)**
@@ -103,59 +104,70 @@ A redistribuição de Procedimentos Administrativos será feita por despacho fun
 I – uma vez realizada a redistribuição, deverá haver posterior compensação por outro Procedimento Administrativo, levando-se em consideração a mesma classificação, se houver;\
 II –  o motivo da redistribuição deverá constar no programa de movimentação (ARP);\
 III – na hipótese de afastamento, caberá ao Procurador titular decidir se o Procedimento Administrativo será encaminhado ao SATCIV para que seja submetido provisoriamente a seu eventual substituto ou a outro Procurador Regional, que ficará prevento para atuar posteriormente no mesmo procedimento e seus correlatos, caso ocorra novo afastamento;\
-IV – caberá ao gabinete que recebeu provisoriamente o Procedimento Administrativo devolvê-lo diretamente ao gabinete do Procurador vinculado quando de seu retorno, efetuando a pertinente movimentação no ARP. \
+IV – caberá ao gabinete que recebeu provisoriamente o Procedimento Administrativo devolvê-lo diretamente ao gabinete do Procurador vinculado quando de seu retorno, efetuando a pertinente movimentação no ARP.
 
 #### Designação dos Coordenadores do NTCC
 O Coordenador do Núcleo de Tutela Coletiva/Cível e o seu substituto serão designados, por portaria do Procurador-Chefe, pelo período de 6 (seis) meses cada um, de acordo com o critério de antiguidade, ou seja, do mais antigo para o mais moderno, entre aqueles que se inscreverem para esta função, permitida 1 (uma) recondução, por igual período, desde que solicitada pelos interessados e com a anuência dos demais integrantes do Núcleo de Tutela Coletiva e Cível. **(Art. 1o da Portaria nº 351, de 03 de novembro de 2015)**
 
 #### Designação do Coordenadores do NTCC em caso de vacância
-Em não havendo postulantes ao exercício da Coordenação do Núcleo de Tutela Coletiva/Cível, a função será exercida pelos dois Procuradores Regionais da República de menor antiguidade, ou seja, os mais novos, cada qual exercendo a titularidade pelo período de 6 meses. (Art. 1o §1o da Portaria nº 351, de 03 de novembro de 2015)
-Dispensa da Coordenação do NTCC
-Estarão isentos das nomeações referidas no Parágrafo anterior o Coordenador do NAOP e os Procuradores Regionais Eleitorais auxiliares, estes apenas em anos eleitorais, no período de julho a dezembro. (Art. 1o §2o da Portaria nº 351, de 03 de novembro de 2015)
-Recondução da Coordenação do NTCC
-A regra de recondução por uma vez será mitigada quando não houver outro membro que aceite o encargo. (Art. 1o §3o da Portaria nº 351, de 03 de novembro de 2015)
-Secretaria do Coordenador do NTCC
-A secretaria da Coordenação de Tutela Coletiva/Cível será exercida pelos servidores da Seção de Acompanhamento de Matéria de Tutela Coletiva/Cível (SAMTCC), conforme dispõe a Portaria PRR2 nº 39, de 06 de abril de 2009. (Art. 2o da Portaria nº 351, de 03 de novembro de 2015)
-Atribuições do Coordenador do NTCC
-Art. 3º. Caberá ao(a) Procurador(a) Regional da República Coordenador(a) do Núcleo de Tutela Coletiva/Cível: (Art. 3o da Portaria nº 351, de 03 de novembro de 2015)
-I – coordenar e orientar as atividades da Seção de Acompanhamento de matéria de Tutela Coletiva/ Cível (SAMTCC);
-II – convocar e preparar as pautas das duas reuniões ordinárias anuais, a serem realizadas nos meses de abril e de outubro, e extraordinárias do Núcleo de Tutela Coletiva/Cível;
-III – promover a implementação das deliberações aprovadas em reuniões do Núcleo de Tutela Coletiva/Cível;
-IV – determinar a instauração, distribuição, reclassificação e redistribuição de Procedimento Administrativo;
-V – controlar e gerenciar o apoio fornecido pelos analistas processuais, excetuadas as regras fixadas em comum acordo pelas duplas de Procuradores, nos termos do art. 11 da Ordem de Serviço nº 2 de 31 de julho de 2015;
-VI – coordenar a atualização da página do Núcleo da Tutela Coletiva/Cível com o apoio da SAMTCC, ASCOM e Coordenadoria de Informática;
+Em não havendo postulantes ao exercício da Coordenação do Núcleo de Tutela Coletiva/Cível, a função será exercida pelos dois Procuradores Regionais da República de menor antiguidade, ou seja, os mais novos, cada qual exercendo a titularidade pelo período de 6 meses. **(Art. 1o §1o da Portaria nº 351, de 03 de novembro de 2015)**
+
+#### Dispensa da Coordenação do NTCC
+Estarão isentos das nomeações referidas no Parágrafo anterior o Coordenador do NAOP e os Procuradores Regionais Eleitorais auxiliares, estes apenas em anos eleitorais, no período de julho a dezembro. **(Art. 1o §2o da Portaria nº 351, de 03 de novembro de 2015)**
+
+#### Recondução da Coordenação do NTCC
+A regra de recondução por uma vez será mitigada quando não houver outro membro que aceite o encargo. **(Art. 1o §3o da Portaria nº 351, de 03 de novembro de 2015)**
+
+#### Secretaria do Coordenador do NTCC
+A secretaria da Coordenação de Tutela Coletiva/Cível será exercida pelos servidores da Seção de Acompanhamento de Matéria de Tutela Coletiva/Cível (SAMTCC), conforme dispõe a Portaria PRR2 nº 39, de 06 de abril de 2009. **(Art. 2o da Portaria nº 351, de 03 de novembro de 2015)**
+
+#### Atribuições do Coordenador do NTCC
+Art. 3º. Caberá ao(a) Procurador(a) Regional da República Coordenador(a) do Núcleo de Tutela Coletiva/Cível: **(Art. 3o da Portaria nº 351, de 03 de novembro de 2015)**
+
+I – coordenar e orientar as atividades da Seção de Acompanhamento de matéria de Tutela Coletiva/ Cível (SAMTCC);\
+II – convocar e preparar as pautas das duas reuniões ordinárias anuais, a serem realizadas nos meses de abril e de outubro, e extraordinárias do Núcleo de Tutela Coletiva/Cível;\
+III – promover a implementação das deliberações aprovadas em reuniões do Núcleo de Tutela Coletiva/Cível;\
+IV – determinar a instauração, distribuição, reclassificação e redistribuição de Procedimento Administrativo;\
+V – controlar e gerenciar o apoio fornecido pelos analistas processuais, excetuadas as regras fixadas em comum acordo pelas duplas de Procuradores, nos termos do art. 11 da Ordem de Serviço nº 2 de 31 de julho de 2015;\
+VI – coordenar a atualização da página do Núcleo da Tutela Coletiva/Cível com o apoio da SAMTCC, ASCOM e Coordenadoria de Informática;\
 VII – outras atividades decididas pelos integrantes do Núcleo de Tutela Coletiva/Cível em reunião ou ato específico.
 
+### SEÇÕES DE APOIO AOS NÚCLEOS
 
+#### SAORI e SAMCRI
+A Seção de Ações Originárias (SAORI) e a Seção de Acompanhamento em Matéria Criminal (SAMCRI) são subunidades administrativas da Procuradoria Regional da República da 2ª Região, subordinadas funcionalmente à Divisão de Apoio e Acompanhamento Processual. **(Art. 1o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)**
 
-SEÇÕES DE APOIO AOS NÚCLEOS
+#### Atribuições da SAORI
+Art. 2º – Compete a SAORI: **(Art. 2o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)**
 
-SAORI e SAMCRI
-A Seção de Ações Originárias (SAORI) e a Seção de Acompanhamento em Matéria Criminal (SAMCRI) são subunidades administrativas da Procuradoria Regional da República da 2ª Região, subordinadas funcionalmente à Divisão de Apoio e Acompanhamento Processual. (Art. 1o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)
-Atribuições da SAORI
-Art. 2º – Compete a SAORI: (Art. 2o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)
-I – autuar, distribuir e arquivar os procedimentos extrajudiciais criminais de atribuição originária da Procuradoria Regional da Segunda Região;
-II – acompanhar os feitos de atribuição originária da Procuradoria Regional da Segunda Região, mantendo banco de dados atualizado sobre os processos em curso, tais como ações penais, inquéritos e pedidos de quebra de sigilo; 
-III – gerenciar, no âmbito de suas atribuições, as informações dos sistemas processuais; 
-IV – realizar, no âmbito de suas atribuições, as pesquisas solicitadas pela 2ª Câmara de Coordenação e Revisão do Ministério Público Federal e pelos membros do Núcleo Criminal; 
-V – prestar, às partes interessadas, no âmbito de suas atribuições, informações sobre a movimentação de procedimentos extrajudiciais, feitos judiciais e inquéritos em trâmite na unidade;
-VI – prestar, no âmbito de suas atribuições, suporte técnico aos gabinetes no que se refere ao correto manejo e gestão de informações processuais; 
+I – autuar, distribuir e arquivar os procedimentos extrajudiciais criminais de atribuição originária da Procuradoria Regional da Segunda Região;\
+II – acompanhar os feitos de atribuição originária da Procuradoria Regional da Segunda Região, mantendo banco de dados atualizado sobre os processos em curso, tais como ações penais, inquéritos e pedidos de quebra de sigilo; \
+III – gerenciar, no âmbito de suas atribuições, as informações dos sistemas processuais;\
+IV – realizar, no âmbito de suas atribuições, as pesquisas solicitadas pela 2ª Câmara de Coordenação e Revisão do Ministério Público Federal e pelos membros do Núcleo Criminal;\ 
+V – prestar, às partes interessadas, no âmbito de suas atribuições, informações sobre a movimentação de procedimentos extrajudiciais, feitos judiciais e inquéritos em trâmite na unidade;\
+VI – prestar, no âmbito de suas atribuições, suporte técnico aos gabinetes no que se refere ao correto manejo e gestão de informações processuais;\ 
 VII – desenvolver outras atividades inerentes à sua finalidade determinadas pela chefia imediata ou atribuídas pelo regimento interno da unidade ou por outro regulamento interno.
-Dos trâmites dos procedimentos extrajudiciais
-Cabe à SAORI a autuação e a distribuição dos procedimentos extrajudiciais criminais, sendo sua atribuição ainda a abertura de volumes e a formação de anexos dos autos em tramitação. (Art. 3o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)
-As atividades relacionadas à tramitação ordinária dos procedimentos extrajudiciais, tais como a expedição e juntada de documentos e a numeração de folhas dos autos, serão de atribuição do Gabinete do Membro com atribuição para o feito. (Art. 3o, § único da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)
-A autuação de Notícia de Fato e a distribuição de qualquer procedimento extrajudicial criminal ocorrerá mediante despacho do Procurador-Chefe ou dos Coordenadores Titular ou Substituto do Núcleo Criminal. (Art. 4o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)
-Critérios de distribuição dos procedimentos extrajudiciais
-A distribuição do procedimento extrajudicial será realizada mediante os seguintes critérios: (Art. 5o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)
-I – ressalvada a existência de procedimento extrajudicial ou processo judicial correlato, que determine a prevenção, os procedimentos extrajudiciais serão livremente distribuídos a um dos Ofícios Regionais Criminais, observando-se sempre a existência de  impedimento ou suspeição formalmente declarada;
-II – os procedimentos extrajudiciais que envolvam juiz ou membro do Ministério Público da União serão distribuídos entre os Ofícios Regionais integrantes do grupo de distribuição “Criminal – Juiz e Membro do MPU”, ressalvadas as hipóteses de designação pelo Procurador-Geral da República;
-III – com exceção do Ofício do Procurador-Chefe Regional, ficará suspensa, sempre mediante posterior compensação, a distribuição de procedimento extrajudicial criminal para o Ofício para o qual estiver suspensa a conclusão de processos judiciais;
-IV – autuado o procedimento extrajudicial ou a notícia de fato, a possível existência de processo ou procedimento correlato que induza a prevenção deverá ser certificada nos autos, que será encaminhado em seguida para o gabinete do Procurador Regional com atribuição no feito correlato para manifestação sobre a existência de prevenção e posterior devolução para distribuição; (Art. 5o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014 com redação dada pela Portaria PRR2 nº 389, de 12 de setembro de 2016)
+
+#### Dos trâmites dos procedimentos extrajudiciais
+Cabe à SAORI a autuação e a distribuição dos procedimentos extrajudiciais criminais, sendo sua atribuição ainda a abertura de volumes e a formação de anexos dos autos em tramitação. **(Art. 3o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)**
+
+- As atividades relacionadas à tramitação ordinária dos procedimentos extrajudiciais, tais como a expedição e juntada de documentos e a numeração de folhas dos autos, serão de atribuição do Gabinete do Membro com atribuição para o feito. **(Art. 3o, § único da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)**
+- A autuação de Notícia de Fato e a distribuição de qualquer procedimento extrajudicial criminal ocorrerá mediante despacho do Procurador-Chefe ou dos Coordenadores Titular ou Substituto do Núcleo Criminal. **(Art. 4o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)**
+
+#### Critérios de distribuição dos procedimentos extrajudiciais
+A distribuição do procedimento extrajudicial será realizada mediante os seguintes critérios: **(Art. 5o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014)**
+I – ressalvada a existência de procedimento extrajudicial ou processo judicial correlato, que determine a prevenção, os procedimentos extrajudiciais serão livremente distribuídos a um dos Ofícios Regionais Criminais, observando-se sempre a existência de  impedimento ou suspeição formalmente declarada;\
+II – os procedimentos extrajudiciais que envolvam juiz ou membro do Ministério Público da União serão distribuídos entre os Ofícios Regionais integrantes do grupo de distribuição “Criminal – Juiz e Membro do MPU”, ressalvadas as hipóteses de designação pelo Procurador-Geral da República;\
+III – com exceção do Ofício do Procurador-Chefe Regional, ficará suspensa, sempre mediante posterior compensação, a distribuição de procedimento extrajudicial criminal para o Ofício para o qual estiver suspensa a conclusão de processos judiciais;\
+IV – autuado o procedimento extrajudicial ou a notícia de fato, a possível existência de processo ou procedimento correlato que induza a prevenção deverá ser certificada nos autos, que será encaminhado em seguida para o gabinete do Procurador Regional com atribuição no feito correlato para manifestação sobre a existência de prevenção e posterior devolução para distribuição; **(Art. 5o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014 com redação dada pela Portaria PRR2 nº 389, de 12 de setembro de 2016)**\
 V – será realizada livre distribuição do feito no caso de impedimento ou suspeição assim manifestada formalmente pelo Procurador Regional da República no procedimento extrajudicial.
-Impossibilidade de distribuição por mais de 24 horas
-Na impossibilidade de realização de distribuição automática no Sistema Único, por problema técnico que perdure por mais de 24 horas, os procedimentos serão distribuídos manualmente ao ofício regional criminal que, no respectivo grupo de distribuição, tenha o menor saldo de distribuições nos últimos doze meses, ou, em caso de empate, àquele ocupado pelo membro de menor antiguidade, respeitando-se sempre a ordem de envio dos documentos à SAORI. (Art. 5o, §1o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014, com redação dada pela Portaria PRR2 nº 160, de 26 de agosto de 2014)
-Expedição de certidão
-Será lavrada certidão de distribuição nos autos do procedimento, da qual constará a forma de distribuição, se por prevenção, automática ou manual, bem como referência ao feito que tenha eventualmente determinado a distribuição por prevenção.  (Art. 5o §2o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014, com redação dada pela Portaria PRR2 nº 160, de 26 de agosto de 2014)
+
+#### Impossibilidade de distribuição por mais de 24 horas
+Na impossibilidade de realização de distribuição automática no Sistema Único, por problema técnico que perdure por mais de 24 horas, os procedimentos serão distribuídos manualmente ao ofício regional criminal que, no respectivo grupo de distribuição, tenha o menor saldo de distribuições nos últimos doze meses, ou, em caso de empate, àquele ocupado pelo membro de menor antiguidade, respeitando-se sempre a ordem de envio dos documentos à SAORI. **(Art. 5o, §1o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014, com redação dada pela Portaria PRR2 nº 160, de 26 de agosto de 2014)**
+
+#### Expedição de certidão
+Será lavrada certidão de distribuição nos autos do procedimento, da qual constará a forma de distribuição, se por prevenção, automática ou manual, bem como referência ao feito que tenha eventualmente determinado a distribuição por prevenção.  **(Art. 5o §2o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014, com redação dada pela Portaria PRR2 nº 160, de 26 de agosto de 2014)**
+
 Expedição de certidão na distribuição manual
 Nos casos de distribuição manual deverá constar da certidão referida no parágrafo anterior que o Sistema Único está temporariamente indisponível por problemas técnicos.  (Art. 5o §3o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014, com redação dada pela Portaria PRR2 nº 160, de 26 de agosto de 2014)
 A distribuição manual observará o disposto no inciso III do caput deste artigo (remissão), e será devidamente registrada no Sistema Único antes da realização de novas distribuições automáticas.  (Art. 5o §4o da Portaria PRR2 nº 26, de 20 de fevereiro de 2014, com redação dada pela Portaria PRR2 nº 160, de 26 de agosto de 2014)
